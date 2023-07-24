@@ -1,6 +1,13 @@
 # Image_bg_remover
 Image Background Remover built using Tensorflow.
 
+![Uploading pexels-quang-anh-ha-nguyen-884977.png…]()
+
+![Uploading djcdn.png…]()
+
+
+
+
 # Background-Removal-using-Deep-Learning
 
 The repository contains the code for removing the background of a human from images using deep learning (semantic segmentation)
