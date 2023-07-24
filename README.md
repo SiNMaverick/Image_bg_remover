@@ -26,6 +26,6 @@ opencv
 
 
 ## Dataset
-Download the dataset: [Person Segmentation](https://www.kaggle.com/datasets/nikhilroxtomar/person-segmentation/download?datasetVersionNumber=1)
+Download the dataset: [Person Segmentation](https://www.kaggle.com/datasets/nikhilroxtomar/person-segmentation/download?datasetVersionNumber=1), 
 Download the Model - https://drive.google.com/drive/folders/1kTQnA1U7NSB2XKPhMtWTbT1wUxzg3RZH
 
