@@ -16,11 +16,11 @@ Change the destination of the Testing folder in the predict.py code.
 
 Libraries and Packages Used : 
 
-Tensorflow
-keras
-scikit-learn
-numpy
-pandas
+Tensorflow,
+keras,
+scikit-learn,
+numpy,
+pandas,
 opencv
 
 
