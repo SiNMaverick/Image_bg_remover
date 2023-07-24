@@ -11,7 +11,7 @@ The model used is a pretrained model.
 
 
 Note : 
-Change the Destinantion of the Model (model.h5) file in the model.py code. 
+Change the Destinantion of the Model (model.h5) file in the predict.py code. 
 Change the destination of the Training (person segmentation) image folder in the train.py code.
 Change the destination of the Testing folder in the predict.py code.
 
