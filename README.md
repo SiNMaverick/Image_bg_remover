@@ -9,6 +9,7 @@ This project is mostly focused on removing background of images which contains h
 
 The model used is a pretrained model.
 
+
 Note : 
 Change the Destinantion of the Model (model.h5) file in the model.py code. 
 Change the destination of the Training (person segmentation) image folder in the train.py code.
@@ -26,5 +27,5 @@ opencv
 
 ## Dataset
 Download the dataset: [Person Segmentation](https://www.kaggle.com/datasets/nikhilroxtomar/person-segmentation/download?datasetVersionNumber=1)
-
+Download the Model - https://drive.google.com/drive/folders/1kTQnA1U7NSB2XKPhMtWTbT1wUxzg3RZH
 
